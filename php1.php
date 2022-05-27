@@ -1,3 +1,3 @@
 <?php
 
-echo “你好,github”;
+2222
